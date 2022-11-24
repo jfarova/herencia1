@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\herencia\bin\Debug\net6.0\herencia.exe
+C:\Users\User\Downloads\herencia\bin\Debug\net6.0\herencia.deps.json
+C:\Users\User\Downloads\herencia\bin\Debug\net6.0\herencia.runtimeconfig.json
+C:\Users\User\Downloads\herencia\bin\Debug\net6.0\herencia.dll
+C:\Users\User\Downloads\herencia\bin\Debug\net6.0\herencia.pdb
+C:\Users\User\Downloads\herencia\obj\Debug\net6.0\herencia.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\herencia\obj\Debug\net6.0\herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\herencia\obj\Debug\net6.0\herencia.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\herencia\obj\Debug\net6.0\herencia.AssemblyInfo.cs
+C:\Users\User\Downloads\herencia\obj\Debug\net6.0\herencia.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\herencia\obj\Debug\net6.0\herencia.dll
+C:\Users\User\Downloads\herencia\obj\Debug\net6.0\refint\herencia.dll
+C:\Users\User\Downloads\herencia\obj\Debug\net6.0\herencia.pdb
+C:\Users\User\Downloads\herencia\obj\Debug\net6.0\herencia.genruntimeconfig.cache
+C:\Users\User\Downloads\herencia\obj\Debug\net6.0\ref\herencia.dll
